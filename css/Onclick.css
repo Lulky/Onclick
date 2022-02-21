@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    background-color: #CCCCCC;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    height: 70px;
+    
+    
+}.nav-title {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    padding-left: 40px;
+    width: 40px;
+    font-weight: bolder;
+    font-size: 35px;
+    margin-right: 40px;
+}
+
+.btn {
+
+    color: white;
+    display: block;
+    background-color: #2B78E4;
+    border: 3px solid black;
+    font-family: 'Roboto', sans-serif;
+    width: 70px;
+    height: 33px;
+    text-align: center;
+    font-size: large;
+    box-shadow: 5px 5px 5px black;
+    
+    
+}
+.Search {
+    width: 250px;
+    height: 20px;
+    border: 3px solid black;
+}
+
+.budy {
+    border: 2px solid black;
+    height: 160px;
+    width: 400px;
+    margin-top: 40px;
+    margin-left: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+.topi {
+    display: flex;
+    margin-top: 15px;
+    align-items: center;
+}
+.lefi{
+    align-items: center;
+    padding-left: 10px;
+    align-self: start;
+    text-align: center;
+    
+}
+.practique {
+    padding-left: 50px;
+    padding-right: 30px;
+    font-weight: bold;
+
+}
+
+.fome{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.jas {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+  
+}
+.like {
+    margin-top: 15px;
+    color: black;
+    font-size:13px;
+    background-color: #FFD966;
+    border: 3px solid black;
+    font-family: 'Roboto', sans-serif;
+    width: 70px;
+    height: 33px;
+    text-align: center;
+    font-weight: bold;
+    
+    box-shadow: 5px 5px 5px black;
+}
+
+.noun {
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+}
+
+.ninjas {
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+.link{
+    color:#306FA4;
+    
+}
+
+.righty{
+    border: 2px solid black;
+    width: 180px;
+    height: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin: 40px;
+    align-items: center;
+    
+}
+.you {
+    font-size: 30px ;
+    font-weight: bold;
+}
+
+.conti{
+    padding: 15px;
+}
+
+.add {
+    margin-top: 15px;
+    color: black;
+    font-size:15px;
+    background-color: #93C47D;
+    border: 3px solid black;
+    font-family: 'Roboto', sans-serif;
+    width: 150px;
+    height: 33px;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px black;
+}
+
+.divino {
+    display: flex;
+    justify-content: center;
+}
